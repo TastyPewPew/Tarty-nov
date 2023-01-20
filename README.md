@@ -1,4 +1,4 @@
-# Tarty-flette - PWN
+# Tarty'nov - PWN
 ### Description
 
 Ce challenge PWN de type buffer overflow sur un binaire 64 bits, compilé sans couche de sécurité.
