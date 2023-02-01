@@ -16,3 +16,4 @@ flagman  | Fl4ggrZ
 C'est tout pour les informations de base que l'on possède.
 
 ### Writeup
+https://github.com/TastyPewPew/Tarty-nov/blob/main/Write-up_PWN.pdf
